@@ -1,4 +1,4 @@
-# matlab in ChE
+# matlab for ChE
 Codes developed for Chemical engineering thermodynamic calculations
 
 Currently codes include gamma and phi calculations from binary to quaternary components.
