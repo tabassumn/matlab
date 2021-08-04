@@ -1,2 +1,2 @@
 # matlab
-Codes developed for matlab quizzes for students taught at BUET
+Codes developed for Chemical engineering calculations
